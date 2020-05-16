@@ -1,29 +1,37 @@
-# Start_Unity_Github_Project
-Use this template to start a Unity3D project using Git and Github. 
+----------------------Game Project References----------------------
 
-The goal of this repository is to make it easy to get started with source control in Unity.  
+Game Assets:
 
-The article in the link below explains why git is difficult, but not impossible, to use with unity with git and how you can setup your project to be a bit more "git" friendly [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity)
+*Hand Painted Forest Elite
+https://assetstore.unity.com/packages/3d/environments/fantasy/hand-painted-forest-lite-47738
 
-The following directions assume that you have github desktop [[Download Here]](https://desktop.github.com/) and git-lfs[[Download Here]](https://git-lfs.github.com/) already installed on your computer, as well as having a github account.  I will also assume that if you are familar with git/github and use either the command line or a GUI other that github desktop you should be okay without step by step instructions.
+*Low Poly Pillar Set
+https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-pillar-set-20825
 
-Once you are ready:
+*PBR exterior pack: 5 stones
+https://assetstore.unity.com/packages/3d/environments/fantasy/pbr-exterior-pack-5-stones-117126
 
-1. Click the "Use this template" button on this page. This will create a new repository in your account
-2. Give This repository a name related to your game
-3. Click "Create repository from template"
-4. Click "Clone or Download"
-5. Click "Open in Desktop".  This will open the Github Desktop application
-6. Select a folder on your system and Click "Clone"
-7. Open the new folder with this README.md in your file manager
-8. Copy your existing Unity project folder into this folder
-9. Go back to Github Desktop and create a commit message, then Click "Commit"
-10. Once the commit is complete Click "Push"
+*10 Skyboxes Pack : Day - Night
+https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236
 
-If your Library folder is not being ignored open your command line tool in your this folder and run:
+*Fruit Pack
+https://assetstore.unity.com/packages/3d/props/food/fruit-pack-80254
 
-`git rm -r --cached Library`
+*Fishing Boat
+https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181
 
-then
+*3D Monster 0002: Shell Crab
+https://assetstore.unity.com/packages/3d/characters/creatures/3d-monster-0002-shell-crab-53706
 
-`git commit -m "Removed Library Folder from repository"`
+*FREE Stylized PBR Textures Pack
+https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-pbr-textures-pack-111778
+
+*Wooden Crates
+https://assetstore.unity.com/packages/3d/props/wooden-crates-16599
+
+*Cyborg Character
+https://assetstore.unity.com/packages/3d/characters/cyborg-character-112661
+
+Game Development Tutorials:
+
+https://www.youtube.com/watch?v=ReauId6jFFI&t=65s
